@@ -29,6 +29,6 @@
   "dependencies": {
     "buffer-stream-reader": "^0.1.1",
     "extend": "^3.0.0",
-    "request": "^2.74.0"
+    "request": "^2.67.0"
   }
 }
